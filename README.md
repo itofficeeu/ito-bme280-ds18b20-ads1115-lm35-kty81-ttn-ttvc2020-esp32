@@ -1,9 +1,5 @@
-# ito-bme280-ds18b20-ads1115-lm35-kty81-ttn-ttvc2020-esp32
-
-
-
-
-
+# Reference program for sending data in to The Things Network. - ABP activation 
+ito-bme280-ds18b20-ads1115-lm35-kty81-ttn-ttvc2020-esp32
 
 
 ## Language
